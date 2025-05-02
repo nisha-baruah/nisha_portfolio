@@ -1,0 +1,76 @@
+/* GET Method Section */
+.get-method {
+    padding: 100px 0;
+    background: rgba(255, 255, 255, 0.9); /* Semi-transparent white */
+    backdrop-filter: blur(10px);
+}
+
+.get-method h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 2.5rem;
+    color: #0a1e54; /* Deep navy for headings */
+}
+
+.get-method p {
+    text-align: center;
+    margin-bottom: 40px;
+    font-size: 1.2rem;
+    color: #555; /* Subtle gray for text */
+}
+
+.implementation {
+    background: rgba(255, 255, 255, 0.9); /* Semi-transparent white */
+    backdrop-filter: blur(10px);
+    padding: 20px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+
+.implementation h3 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+    color: #0a1e54; /* Deep navy for headings */
+}
+
+.implementation form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.implementation label {
+    font-size: 1rem;
+    color: #0a1e54; /* Deep navy for text */
+}
+
+.implementation input {
+    padding: 10px;
+    border: 1px solid #cfc7c8; /* Light gray border */
+    border-radius: 5px;
+    font-size: 1rem;
+}
+
+.implementation button {
+    align-self: flex-start;
+}
+
+/* Result Section */
+.result {
+    padding: 100px 0;
+    background: rgba(255, 255, 255, 0.9); /* Semi-transparent white */
+    backdrop-filter: blur(10px);
+}
+
+.result h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 2.5rem;
+    color: #0a1e54; /* Deep navy for headings */
+}
+
+.result p {
+    text-align: center;
+    font-size: 1.2rem;
+    color: #555; /* Subtle gray for text */
+}
